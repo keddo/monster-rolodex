@@ -5,7 +5,7 @@
 
 ## Live Demo
 
-[Open Live Demo](https://instagram-react-app-67d58.web.app)
+[Open Live Demo](https://keddo.github.io/monster-rolodex/)
 
 
 ## Built With
@@ -27,7 +27,7 @@ To get this app ready to run, follow this steps:
 
 * Install required packages
 
-        pc:~$ npm install
+        pc:~$ yarn install
     
 ## How to use it
 
